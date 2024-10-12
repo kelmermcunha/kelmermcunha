@@ -1,6 +1,6 @@
 ### Hi! :wave:
 
-- :books: Undergraduate biology student at Universidade Federal de Santa Catarina
+- :books: Masters'student in Fungal, Plant, and Algae biology at the Federal University of Santa Catarina
 - :chart_with_upwards_trend: Member of the [MIND.Funga Initiative](https://mindfunga.ufsc.br/?lang=en)
 - :mailbox: Currently involved in: 
 	- [Understand](https://mindfunga.ufsc.br/os-efeitos-do-manejo-tradicional-na-funga-do-pnsj/?lang=en) the impacts of land management on highland grasslands soil Funga
