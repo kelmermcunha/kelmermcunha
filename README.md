@@ -9,7 +9,7 @@
 - :pushpin: My main interests are: 
 	- Mycology, Ecology, Conservation, Molecular Biology, Metagenomics and Statistics
 - :telescope: Always learning!
-  Check my work at [my website](https://www.kelmermartinscunha.com)
+  Check my work at [my website](https://kelmermcunha.github.io)
 
 <!---
 kelmermcunha/kelmermcunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
